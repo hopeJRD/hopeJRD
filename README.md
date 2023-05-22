@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @hopeJRD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there, I’m <a href="https://hopejrd.github.io/">packluke</a>
+This a place where I post my shit and often break the internet 🤣
 
-<!---
-hopeJRD/hopeJRD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 &nbsp;Bulding Multimodal Models that can work with arbitary formats of data @ [Renaissance AI.](https://github.com/renaissance-ai-platform)
+- 🌱 I’m currently learning Differential Calculus and its use in AI
+
